@@ -1,6 +1,6 @@
 {
 	"name": "misskey-js",
-	"version": "0.0.14",
+	"version": "yy-v12_v1",
 	"description": "Misskey SDK for JavaScript",
 	"main": "./built/index.js",
 	"types": "./built/index.d.ts",
@@ -16,7 +16,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/misskey-dev/misskey.js.git"
+		"url": "git+https://github.com/rca-fedi/misskey.js.git"
 	},
 	"devDependencies": {
 		"@microsoft/api-extractor": "^7.19.3",

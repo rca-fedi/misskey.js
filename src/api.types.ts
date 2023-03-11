@@ -68,6 +68,11 @@ export type Endpoints = {
 	'admin/relays/add': { req: TODO; res: TODO; };
 	'admin/relays/list': { req: TODO; res: TODO; };
 	'admin/relays/remove': { req: TODO; res: TODO; };
+	'admin/entrance/add': { req: TODO; res: TODO; };
+	'admin/entrance/list': { req: TODO; res: TODO; };
+	'admin/entrance/delete': { req: TODO; res: TODO; };
+	'admin/entrance/update': { req: TODO; res: TODO; };
+	'admin/instance/detail': { req: TODO; res: TODO; };
 
 	// announcements
 	'announcements': { req: { limit?: number; withUnreads?: boolean; sinceId?: Announcement['id']; untilId?: Announcement['id']; }; res: Announcement[]; };
@@ -602,4 +607,7 @@ export type Endpoints = {
 		};
 	}; };
 	'users/stats': { req: TODO; res: TODO; };
+
+	// entrance
+	'entrance': { req: TODO; res: TODO; }; //TODO_yoiyami
 };
