@@ -1,5 +1,5 @@
 {
-	"name": "misskey-js",
+	"name": "yoiyami-js",
 	"version": "1.0.0",
 	"description": "Misskey SDK for JavaScript",
 	"main": "./built/index.js",
