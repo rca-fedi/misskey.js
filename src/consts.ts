@@ -39,4 +39,5 @@ export const permissions = [
 	'write:gallery',
 	'read:gallery-likes',
 	'write:gallery-likes',
+	'approve:new-token',
 ];
