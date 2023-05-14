@@ -1,6 +1,6 @@
 {
   "name": "@r-ca/yoiyami-js",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "yoiyami SDK for JavaScript",
   "main": "./built/index.js",
   "types": "./built/index.d.ts",
